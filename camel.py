@@ -1,4 +1,4 @@
-#Week 2, problem set 0. Converting camelCase to snake_case.
+#Week 2, problem set 0, Que 1. Converting camelCase to snake_case.
 user_input = input("camelCase: ")
 
 def camel_case(s):
